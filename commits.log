@@ -1,0 +1,111 @@
+commit 29d3289edcccfed02e052a2ae1b62db8d9a36094
+Merge: f751a91 ae67b2c
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Fri Feb 21 11:27:36 2025 -0600
+
+    Merge branch 'main' of https://github.com/Karlof99/jonmircha-git
+
+commit f751a912648ee43972a20da8053f1fa3b75fdbe5
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Fri Feb 21 11:14:37 2025 -0600
+
+    Corrigiendo error en fecha
+
+commit ae67b2c5912e7dbf766d50fb0f8391e0114ec3ee
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Fri Feb 21 11:14:37 2025 -0600
+
+    Agregando 2 parrafos
+
+commit d4f917cf04f9de5311e85c21c24a2930771b5eba
+Merge: 7c3b7ee 74e7a62
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Fri Feb 21 11:10:44 2025 -0600
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 7c3b7eeb57ad5a0185744405d20979e674e900f0
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Fri Feb 21 10:46:14 2025 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 74e7a62742376aa6afd3e9af9b546e205e70d410
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Fri Feb 21 10:46:14 2025 -0600
+
+    Agregando las estaciones del año
+
+commit 462a7d36d226cabb57a1815389da4901c36690e9
+Merge: 6889f48 1a204da
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Wed Feb 19 19:52:25 2025 -0600
+
+    Resolviendo conflicto merge main/html en el documento html
+
+commit 1a204da27cc10e62100374d4514f4f5d126b451c
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Wed Feb 19 19:38:18 2025 -0600
+
+    Agregando index.js al index.html
+
+commit 6889f480016702f0ed5cbfdcc44ba1d989ef41cd
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Wed Feb 19 19:33:42 2025 -0600
+
+    Agregando style.css al index.html
+
+commit 6f4bee1fc369e1af6283475c1758de7ff49c5547
+Merge: 8a04134 30f5568
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Wed Feb 19 19:16:27 2025 -0600
+
+    Merge branch 'js'
+
+commit 30f5568cae45315ee262d0703c1d0b352b27665a
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Wed Feb 19 19:02:53 2025 -0600
+
+    Creando index.js
+
+commit 8a0413408432aba3036fe55b0e1aabc26eed0e86
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Wed Feb 19 18:48:34 2025 -0600
+
+    Creando style.css
+
+commit a9a127de1a3403af7b4435907271229b04c05406
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Tue Feb 18 21:37:14 2025 -0600
+
+    Creando index.html
+
+commit 756fd2c15f489e6b90abb8915355155ac9191848
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Tue Feb 18 21:04:42 2025 -0600
+
+    Ignorando archivos .exe
+
+commit 04d557fb89d1fb33d610ca65a9ef4d567bf161a8
+Author: Carlos Ortiz <83260974+Karlof99@users.noreply.github.com>
+Date:   Tue Feb 18 19:34:58 2025 -0600
+
+    Creando licencia del repositorio
+
+commit e9fbe8e49735f1d6ca1873a192d3945cdbb11f90
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Mon Feb 17 11:16:10 2025 -0600
+
+    Agregando más contenido al README
+
+commit 4a7b92501566912e01463b48a685f2b3d00a7a56
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Mon Feb 17 11:01:02 2025 -0600
+
+    Agregando contenido inicial al README
+
+commit c4665143df4e9a9c2a7c19de1ad917d939dd98e1
+Author: Carlos Ortiz <cof2025@gmail.com>
+Date:   Mon Feb 17 10:53:13 2025 -0600
+
+    Primer commit 😉

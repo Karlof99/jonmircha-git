@@ -1,0 +1,27 @@
+*   29d3289 Merge branch 'main' of https://github.com/Karlof99/jonmircha-git
+|\  
+| * ae67b2c Agregando 2 parrafos
+* | f751a91 Corrigiendo error en fecha
+|/  
+*   d4f917c Resolviendo conflicto en estaciones del año y fecha de inicio
+|\  
+| * 74e7a62 Agregando las estaciones del año
+* | 7c3b7ee Agregando estaciones del año con fecha de inicio
+|/  
+*   462a7d3 Resolviendo conflicto merge main/html en el documento html
+|\  
+| * 1a204da Agregando index.js al index.html
+* | 6889f48 Agregando style.css al index.html
+* |   6f4bee1 Merge branch 'js'
+|\ \  
+| * | 30f5568 Creando index.js
+* | | 8a04134 Creando style.css
+| |/  
+|/|   
+* | a9a127d Creando index.html
+|/  
+* 756fd2c Ignorando archivos .exe
+* 04d557f Creando licencia del repositorio
+* e9fbe8e Agregando más contenido al README
+* 4a7b925 Agregando contenido inicial al README
+* c466514 Primer commit 😉
